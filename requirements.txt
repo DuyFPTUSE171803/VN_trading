@@ -1,0 +1,9 @@
+pmdarima == 2.0.4
+pandas == 2.0.3
+statsmodels == 0.14.2
+vnstock3 == 0.3.0.5
+pandas_ta ==0.3.14b0
+numpy==1.25.2
+seaborn==0.13.1
+tqdm==4.66.4
+SQLAlchemy==2.0.30
