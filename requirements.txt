@@ -7,3 +7,6 @@ numpy==1.25.2
 seaborn==0.13.1
 tqdm==4.66.4
 SQLAlchemy==2.0.30
+tensorflow 
+scikit-learn
+prophet
