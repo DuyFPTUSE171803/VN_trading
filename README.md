@@ -2,6 +2,9 @@
 
 This repository contains Jupyter notebooks for backtesting VN30 and VNINDEX stock data using different machine learning and statistical models. Each notebook focuses on a specific model or combination of models: LSTM, GRU, Prophet, and XGBoost.
 
+## Fetching Data with `vnstock3`
+The `vnstock3` library is used to fetch historical stock data for VN30 and VNINDEX. This library provides an easy way to retrieve stock data from various sources.
+
 ## Models and Methods
 
 ### LSTM (Long Short-Term Memory)
