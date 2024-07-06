@@ -101,7 +101,6 @@ Backtesting is performed by comparing the model predictions to actual stock pric
 Each notebook includes functions to plot the PNL and visualize the performance of the trading strategy. The plots help in understanding how the strategy performs over time and under different market conditions.
 
 ## Author
-Your Name
-
-## License
-This project is licensed under the MIT License.
+Nguyen Hoang Duy
+Nguyen Tran Thien Phuc
+Tran Huy
